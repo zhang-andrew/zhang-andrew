@@ -1,4 +1,11 @@
-### Hi there 👋
+### Andrew Zhang 
+
+#### Software Developer specialised in web-based applications.
+
+Languages:&nbsp;&nbsp;`Java, C#, Python, JavaScript, SQL`\
+Tech Stack:&nbsp;&nbsp;`NodeJS, React, Angular, Svelte`
+
+
 
 <!--
 **zhang-andrew/zhang-andrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+👋🍵
 -->
