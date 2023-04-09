@@ -1,9 +1,9 @@
 ### Andrew Zhang 
 
-#### Software Developer specialised in web-based applications.
+#### Software Developer.
 
 Languages:&nbsp;&nbsp;`Java, C#, Python, JavaScript, SQL`\
-Tech Stack:&nbsp;&nbsp;`NodeJS, React, Angular, Svelte`
+Tech Stack:&nbsp;&nbsp;`.NET Core, NodeJS, React, Angular, Svelte`
 
 
 
